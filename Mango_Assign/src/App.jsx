@@ -61,7 +61,7 @@ export default function App() {
       // [{...filterArr,timestamp: new Date().toISOString()}]
       // filterArr[0].timestamp=new Date().toISOString()
 
-      // console.log()
+      
 
       const AddAutoMaticMsg = { ...filterArr[0], timestamp: new Date().toISOString() }
       // console.log(filterArr)
