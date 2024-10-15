@@ -2,6 +2,7 @@
   "name": "material-ui-vite",
   "version": "5.0.0",
   "private": true,
+  "homepage": "https://prashanth036.github.io/Mango_Assign/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
